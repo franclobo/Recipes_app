@@ -12,6 +12,9 @@ The Recipe app keeps track of all your recipes, ingredients, and inventory. It w
 - Ruby
 - Ruby on Rails
 
+## Live demo
+
+[Recipes-app](https://recipe-app-2022-10-07.herokuapp.com/)
 
 ## Run it
 
