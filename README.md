@@ -25,7 +25,7 @@ Use the following steps to run this Project locally:
 - Open the terminal
 
 - Run this command:
-`git clone git@github.com:Emmykage/Recipe-app.git`
+`git clone git@github.com:franclobo/Recipes_app.git`
 
 - Enter in to the folder:
 `cd Recipe-app`
