@@ -63,7 +63,7 @@ test:
   <<: *default
   database: Recipe_app_test
   username: postgres
-  password: chemistry
+  password: postgres
   host: localhost:3000
   port: 5432
 
