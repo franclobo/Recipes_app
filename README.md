@@ -14,7 +14,7 @@ The Recipe app keeps track of all your recipes, ingredients, and inventory. It w
 
 ## Live Demo
 
-[Recipe App]( https://recipe-app-2022-10-07.herokuapp.com/)
+[Recipe App](https://recipes-app-w53b.onrender.com)
 
 ## Run it
 
