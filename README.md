@@ -14,7 +14,7 @@ The Recipe app keeps track of all your recipes, ingredients, and inventory. It w
 
 ## Live Demo
 
-[Recipe App](https://recipes-app-w53b.onrender.com)
+[Recipe App](https://recipes-app.fly.dev/)
 
 ## Run it
 
