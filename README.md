@@ -4,7 +4,7 @@
 
 ## Description
 
-The Recipe app keeps track of all your recipes, ingredients, and inventory. It will allow user to save ingredients to a recipe, keep track of stock, create recipes, and generate a shopping list based on the difference between inventory and recipe requirements. To allow sharing the recipe, the user or creater can indicate whether it is private or public.
+The Recipe app keeps track of all your recipes, ingredients, and inventory. It allows user to save ingredients to a recipe, keep track of stock, create recipes, and generate a shopping list based on the difference between inventory and recipe requirements. To allow sharing the recipe, the user or creater can indicate whether it is private or public.
 
 
 ## Built With
