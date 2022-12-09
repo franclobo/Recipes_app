@@ -14,7 +14,7 @@ The Recipe app keeps track of all your recipes, ingredients, and inventory. It a
 
 ## Live Demo
 
-[Recipe App](https://recipes-app.fly.dev/)
+[Recipe App](https://recipes-app09122022.herokuapp.com/)
 
 ## Run it
 
