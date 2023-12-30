@@ -3,7 +3,7 @@ class User < ApplicationRecord
   # :confirmable, :lockable, :timeoutable, :trackable and :omniauthable
   # user doesn't need to confirm email, confirmable should be nil
   devise :database_authenticatable, :registerable,
-         :recoverable, :rememberable, :validatable, :confirmable => nil
+         :recoverable, :rememberable, :validatable, :confirmable
 
   validates :name, presence: true
 
