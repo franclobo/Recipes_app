@@ -7,7 +7,7 @@ processes = []
 
 [build]
   [build.image]
-    from = "recipes-app"
+    from = "docker.io/library/recipes-app"
     dockerfile = "Dockerfile"
   [build.args]
     BUILD_COMMAND = "bin/rails fly:build"
