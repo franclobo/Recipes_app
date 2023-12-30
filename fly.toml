@@ -6,8 +6,7 @@ kill_timeout = 5
 processes = []
 
 [build]
-  [build.image]
-    from = "docker.io/library/recipes-app"
+    image = "docker.io/library/recipes-app"
     dockerfile = "Dockerfile"
   [build.args]
     BUILD_COMMAND = "bin/rails fly:build"
