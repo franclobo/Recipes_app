@@ -20,14 +20,15 @@ default: &default
   # For details on connection pooling, see Rails configuration guide
   # https://guides.rubyonrails.org/configuring.html#database-pooling
   pool: <%= ENV.fetch("RAILS_MAX_THREADS") { 5 } %>
+  username: postgres
+  password: postgres
+  host: localhost
+  port: 5432
 
 development:
   <<: *default
   database: Recipe_app_development
-  username: postgres
-  password: chemistry
-  host: localhost
-  port: 5432
+
 
   # The specified database role being used to connect to postgres.
   # To create additional roles in postgres see `$ createuser --help`.
@@ -62,10 +63,7 @@ development:
 test:
   <<: *default
   database: Recipe_app_test
-  username: postgres
-  password: postgres
-  host: ''
-  port: 5432
+
 
 
 # As with config/credentials.yml, you never want to store sensitive information,
